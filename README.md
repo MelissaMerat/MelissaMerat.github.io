@@ -28,26 +28,31 @@ Formation
 Expériences associatives
 ---------
 
+2020/2021
 :   **Association Nantaise des Étudiants de Miage (ANEM)**; Nantes (44000)
 
 	*Responsable Pôle Événementiel et Communication
 	⇒ Communiquer de façon adéquate pour entreprendre et fédérer un groupe*
 
+Décembre 2020
 :   **Programme Ré_action**; MAKESENSE
 
 	*Participation  au “Lien avec nos aînés”
 	⇒ Être à l’écoute et attentive*
-
+	
+2019/2020
 :   **ANEM**; Nantes (44000)
 
 	*Organisatrice d’évènements
 	⇒ Organiser et planifier des projets*
 
+Été 2019
 :   **Bénévole au Festival Interceltique**; Lorient (56100)
 
 	*Stand de Prévention
 	⇒ Aider, prévenir, être avenante*
 
+Été 2018
 :   **Expérience de WOOFING**; Irlande
 
 	*Jardinière, aide ménagère
