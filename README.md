@@ -58,7 +58,7 @@ Expériences associatives
 2020/2021
 :   **Association Nantaise des Étudiants de Miage (ANEM)**; Nantes (44000)
 - Responsable Pôle Événementiel et Communication
-	⇒ Communiquer de façon adéquate pour entreprendre et fédérer un groupe
+> ⇒ Communiquer de façon adéquate pour entreprendre et fédérer un groupe
 
 Décembre 2020
 :   **Programme Ré_action**; MAKESENSE
