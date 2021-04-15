@@ -4,6 +4,7 @@ Septembre 2019/ Septembre 2021
 :   **DSI PÔLE EMPLOI**, Nantes (44000) 
 - Développeur Web en alternance
 > ⇒ Collaborer avec une équipe vers un objectif commun 
+> 
 > ⇒ S’adapter à l’environnement de travail
 
 Avril / Juin 2019
@@ -41,11 +42,11 @@ Formation
 2019-2020
 :   **L3 MIAGE**;  Université de Nantes
 - 5ème de promotion alternance
-	  ⇒ Gérer le rythme soutenu
+> ⇒ Gérer le rythme soutenu
      
 2017-2019 
 :   **DUT INFORMATIQUE**; Université de Toulouse, Blagnac
-- Apprendre efficacement
+> ⇒ Apprendre efficacement
 
 2015-2017
 :   **Baccalauréat Economique et Social (ES)**; Lycée Bernard PALISSY, Agen 
@@ -62,22 +63,22 @@ Expériences associatives
 Décembre 2020
 :   **Programme Ré_action**; MAKESENSE
 - Participation  au “Lien avec nos aînés”
-	⇒ Être à l’écoute et attentive
+> ⇒ Être à l’écoute et attentive
 	
 2019/2020
 :   **ANEM**; Nantes (44000)
 - Organisatrice d’évènements
-	⇒ Organiser et planifier des projets
+> ⇒ Organiser et planifier des projets
 
 Été 2019
 :   **Bénévole au Festival Interceltique**; Lorient (56100)
 - Stand de Prévention
-	⇒ Aider, prévenir, être avenante
+> ⇒ Aider, prévenir, être avenante
 
 Été 2018
 :   **Expérience de WOOFING**; Irlande
 - Jardinière, aide ménagère
-	⇒ Améliorer sa capacité d’adaptation
+> ⇒ Améliorer sa capacité d’adaptation
 
 
 ## Welcome to GitHub Pages
