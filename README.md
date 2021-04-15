@@ -1,3 +1,32 @@
+Formation
+---------
+
+2020-2021
+:   **M1 Méthodes Informatiques Appliquées à la Gestion d'Entreprises (MIAGE)**; Université de Nantes
+
+Été 2020 
+:   **Obtention 1ère étape du BAFA**; UCPA
+
+    * Animer, organiser des évènements*
+
+2019-2020
+:   **L3 MIAGE**;  Université de Nantes
+
+    *5ème de promotion alternance
+	  ⇒ Gérer le rythme soutenu*
+     
+2017-2019 
+:   **DUT INFORMATIQUE**; Université de Toulouse, Blagnac
+
+    * Apprendre efficacement*
+
+2015-2017
+:   **Baccalauréat Economique et Social (ES)**; Lycée Bernard PALISSY, Agen 
+
+    * Mention Assez Bien*
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/MelissaMerat/MelissaMerat.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
