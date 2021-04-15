@@ -6,8 +6,7 @@ Formation
 
 Été 2020 
 :   **Obtention 1ère étape du BAFA**; UCPA
-
-    *Animer, organiser des évènements*
+    *Animer, organiser des évènements
 
 2019-2020
 :   **L3 MIAGE**;  Université de Nantes
