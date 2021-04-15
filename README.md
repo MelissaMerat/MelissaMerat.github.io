@@ -23,7 +23,7 @@ Septembre/Octobre 2018
 > ⇒ Travailler efficacement 
 
 Été 2017
-:   **WALIBI SUD-OUEST **, Rochefort 
+:   **WALIBI SUD-OUEST**, Rochefort 
 - Agent polyvalent, principalement en restauration
 > ⇒  Etre responsable et autonome
 
