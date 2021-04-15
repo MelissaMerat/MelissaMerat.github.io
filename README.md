@@ -6,55 +6,48 @@ Formation
 
 Été 2020 
 :   **Obtention 1ère étape du BAFA**; UCPA
-    *Animer, organiser des évènements
+- Animer, organiser des évènements
 
 2019-2020
 :   **L3 MIAGE**;  Université de Nantes
-
-    *5ème de promotion alternance
-	  ⇒ Gérer le rythme soutenu*
+- 5ème de promotion alternance
+	  ⇒ Gérer le rythme soutenu
      
 2017-2019 
 :   **DUT INFORMATIQUE**; Université de Toulouse, Blagnac
-- Apprendre efficacement*
+- Apprendre efficacement
 
 2015-2017
 :   **Baccalauréat Economique et Social (ES)**; Lycée Bernard PALISSY, Agen 
-
-    *Mention Assez Bien*
+- Mention Assez Bien
 
 Expériences associatives
 ---------
 
 2020/2021
 :   **Association Nantaise des Étudiants de Miage (ANEM)**; Nantes (44000)
-
-	*Responsable Pôle Événementiel et Communication
-	⇒ Communiquer de façon adéquate pour entreprendre et fédérer un groupe*
+- Responsable Pôle Événementiel et Communication
+	⇒ Communiquer de façon adéquate pour entreprendre et fédérer un groupe
 
 Décembre 2020
 :   **Programme Ré_action**; MAKESENSE
-
-	*Participation  au “Lien avec nos aînés”
-	⇒ Être à l’écoute et attentive*
+- Participation  au “Lien avec nos aînés”
+	⇒ Être à l’écoute et attentive
 	
 2019/2020
 :   **ANEM**; Nantes (44000)
-
-	*Organisatrice d’évènements
-	⇒ Organiser et planifier des projets*
+- Organisatrice d’évènements
+	⇒ Organiser et planifier des projets
 
 Été 2019
 :   **Bénévole au Festival Interceltique**; Lorient (56100)
-
-	*Stand de Prévention
-	⇒ Aider, prévenir, être avenante*
+- Stand de Prévention
+	⇒ Aider, prévenir, être avenante
 
 Été 2018
 :   **Expérience de WOOFING**; Irlande
-
-	*Jardinière, aide ménagère
-	⇒ Améliorer sa capacité d’adaptation*
+- Jardinière, aide ménagère
+	⇒ Améliorer sa capacité d’adaptation
 
 
 ## Welcome to GitHub Pages
