@@ -1,3 +1,33 @@
+Expériences professionnelles
+---------
+Septembre 2019/ Septembre 2021
+:   **DSI PÔLE EMPLOI**, Nantes (44000) 
+- Développeur Web en alternance
+> ⇒ Collaborer avec une équipe vers un objectif commun 
+> ⇒ S’adapter à l’environnement de travail
+
+Avril / Juin 2019
+:   **Stage d’informatique**, Moscou (Russie)
+- Réalisation d’un site avec Spring et Bootstrap
+> ⇒ Gérer les changements
+
+Octobre 2018/Février 2019
+:   **LECLERC DRIVE**; Blagnac (31700)
+- Préparatrice de commandes
+> ⇒ Résister au stress
+
+Septembre/Octobre 2018
+:   **PROHYGIENE**; Toulouse (31000)
+- Femme de ménage
+> ⇒ Travailler efficacement 
+
+Été 2017
+:   **WALIBI SUD-OUEST **, Rochefort 
+- Agent polyvalent, principalement en restauration
+> ⇒  Etre responsable et autonome
+
+
+
 Formation
 ---------
 
