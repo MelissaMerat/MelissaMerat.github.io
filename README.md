@@ -16,8 +16,7 @@ Formation
      
 2017-2019 
 :   **DUT INFORMATIQUE**; Université de Toulouse, Blagnac
-
-    *Apprendre efficacement*
+- Apprendre efficacement*
 
 2015-2017
 :   **Baccalauréat Economique et Social (ES)**; Lycée Bernard PALISSY, Agen 
