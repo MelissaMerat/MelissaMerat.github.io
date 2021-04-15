@@ -25,6 +25,33 @@ Formation
 
     *Mention Assez Bien*
 
+Expériences associatives
+---------
+
+:   **Association Nantaise des Étudiants de Miage (ANEM)**; Nantes (44000)
+
+	*Responsable Pôle Événementiel et Communication
+	⇒ Communiquer de façon adéquate pour entreprendre et fédérer un groupe*
+
+:   **Programme Ré_action**; MAKESENSE
+
+	*Participation  au “Lien avec nos aînés”
+	⇒ Être à l’écoute et attentive*
+
+:   **ANEM**; Nantes (44000)
+
+	*Organisatrice d’évènements
+	⇒ Organiser et planifier des projets*
+
+:   **Bénévole au Festival Interceltique**; Lorient (56100)
+
+	*Stand de Prévention
+	⇒ Aider, prévenir, être avenante*
+
+:   **Expérience de WOOFING**; Irlande
+
+	*Jardinière, aide ménagère
+	⇒ Améliorer sa capacité d’adaptation*
 
 
 ## Welcome to GitHub Pages
