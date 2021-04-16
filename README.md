@@ -1,4 +1,4 @@
-| tetst |  Etudiante en M1 MIAGE à l'université de Nantes <br/> Motivée, dynamique, efficace et responsable  <br/>   Je suis à la recherche d’une alternance afin de terminer mes études dans l’accompagnement à la gestion du changement. |
+| ![](pictures/photoCVMelissaMERAT.png) |  Etudiante en M1 MIAGE à l'université de Nantes <br/> Motivée, dynamique, efficace et responsable  <br/>   Je suis à la recherche d’une alternance afin de terminer mes études dans l’accompagnement à la gestion du changement. |
 
 
 
@@ -11,6 +11,8 @@
 - [Expériences professionnelles](#expériences-professionnelles) 
 - [Expériences associatives](#expériences-associatives) 
 - [Formation](#formation) 
+- [Compétences informatiques](#compétences-informatiques) 
+
 
 ### Expériences professionnelles
 
@@ -41,7 +43,11 @@ Septembre/Octobre 2018
 - Agent polyvalent, principalement en restauration
 > ⇒  Etre responsable et autonome
 
-- [Menu](#table-des-matières) 
+[Menu](#table-des-matières) 
+
+### Compétences informatiques
+
+![](pictures/competencesInformatiques.PNG)
 
 ### Formation
 
