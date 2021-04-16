@@ -33,6 +33,7 @@ Septembre/Octobre 2018
 - Agent polyvalent, principalement en restauration
 > ⇒  Etre responsable et autonome
 
+- [Menu](#table-des-matières) 
 
 ### Formation
 
@@ -55,6 +56,8 @@ Septembre/Octobre 2018
 2015-2017
 :   **Baccalauréat Economique et Social (ES)**; Lycée Bernard PALISSY, Agen 
 - Mention Assez Bien
+
+- [Menu](#table-des-matières) 
 
 ### Expériences associatives
 
