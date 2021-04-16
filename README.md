@@ -1,21 +1,11 @@
- # Table des matières 
+### Table des matières 
+
 - [Expériences professionnelles](#expériences-professionnelles) 
 - [Expériences associatives](#expériences-associatives) 
 - [Formation](#formation) 
 
- 
-# Table of contents 
-1. [Introduction](#introduction) 
-2. [Some paragraph](#paragraph1) 
-3. [Sub paragraph](#subparagraph1) 
-4. [Another paragraph](#paragraph2) 
+### Expériences professionnelles
 
-
-
-
-
-Expériences professionnelles
----------
 Septembre 2019/ Septembre 2021
 :   **DSI PÔLE EMPLOI**, Nantes (44000) 
 - Développeur Web en alternance
@@ -44,9 +34,7 @@ Septembre/Octobre 2018
 > ⇒  Etre responsable et autonome
 
 
-
-Formation
----------
+### Formation
 
 2020-2021
 :   **M1 Méthodes Informatiques Appliquées à la Gestion d'Entreprises (MIAGE)**; Université de Nantes
@@ -68,8 +56,7 @@ Formation
 :   **Baccalauréat Economique et Social (ES)**; Lycée Bernard PALISSY, Agen 
 - Mention Assez Bien
 
-Expériences associatives
----------
+### Expériences associatives
 
 2020/2021
 :   **Association Nantaise des Étudiants de Miage (ANEM)**; Nantes (44000)
@@ -230,25 +217,3 @@ Extra Section, Call it Whatever You Want
 * Other sort of impressive-sounding thing you did
 
 
-
-
-## Section 1 
- 
- 
-## Section 2 
-
-## This is the introduction
-
-Some introduction text, formatted in heading 2 style 
-
-## Some paragraph
-
-The first paragraph text 
-
-### Sub paragraph 
-
-This is a sub paragraph, formatted in heading 3 style 
-
-## Another paragraph  
-
-The second paragraph text 
