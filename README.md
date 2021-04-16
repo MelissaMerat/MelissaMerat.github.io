@@ -1,3 +1,6 @@
+![](MERAT_photo.PNG)
+
+
 ### Table des matières 
 
 - [Expériences professionnelles](#expériences-professionnelles) 
