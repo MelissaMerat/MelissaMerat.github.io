@@ -1,3 +1,19 @@
+ # My Table of content 
+- [Section 1](#id-section1) 
+- [Section 2](#id-section2) 
+
+
+ 
+# Table of contents 
+1. [Introduction](#introduction) 
+2. [Some paragraph](#paragraph1) 
+3. [Sub paragraph](#subparagraph1) 
+4. [Another paragraph](#paragraph2) 
+
+
+
+
+
 Expériences professionnelles
 ---------
 Septembre 2019/ Septembre 2021
@@ -212,3 +228,27 @@ Extra Section, Call it Whatever You Want
 * Random tidbit
 
 * Other sort of impressive-sounding thing you did
+
+
+
+
+ ## Section 1 
+ 
+ 
+ ## Section 2 
+
+## This is the introduction
+
+Some introduction text, formatted in heading 2 style 
+
+## Some paragraph
+
+The first paragraph text 
+
+### Sub paragraph 
+
+This is a sub paragraph, formatted in heading 3 style 
+
+## Another paragraph  
+
+The second paragraph text 
