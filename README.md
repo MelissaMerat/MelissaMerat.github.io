@@ -1,4 +1,4 @@
-![](MERAT_photo.PNG)
+![](pictures/photoCVMelissaMERAT.png)
 
 
 ### Table des matières 
