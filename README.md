@@ -1,6 +1,6 @@
  # My Table of content 
-- [Section 1](#id-section1) 
-- [Section 2](#id-section2) 
+- [Section 1](#section-1) 
+- [Section 2](#section-2) 
 
 
  
@@ -232,10 +232,10 @@ Extra Section, Call it Whatever You Want
 
 
 
- ## Section 1 
+## Section 1 
  
  
- ## Section 2 
+## Section 2 
 
 ## This is the introduction
 
