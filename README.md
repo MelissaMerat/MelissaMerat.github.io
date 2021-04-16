@@ -8,6 +8,8 @@
 - [Expériences associatives](#expériences-associatives) 
 - [Formation](#formation) 
 - [Compétences informatiques](#compétences-informatiques) 
+- [Informations générales](#informations-générales) 
+- [Contactez-moi ! ](#contactez-moi-!) 
 
 
 ### Expériences professionnelles
@@ -95,6 +97,13 @@ Décembre 2020
 :   **Expérience de WOOFING**; Irlande
 - Jardinière, aide ménagère
 > ⇒ Améliorer sa capacité d’adaptation
+
+### Informations générales
+-  France (Nantes – 44 000)
+-  Permis B 
+-  21 ans
+
+### Contactez-moi !  [Profil Linkedin ](https://www.linkedin.com/in/m%C3%A9lissa-m%C3%A9rat-9b9379173/) 
 
 
 ## Welcome to GitHub Pages
