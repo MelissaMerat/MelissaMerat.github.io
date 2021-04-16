@@ -1,6 +1,6 @@
 | tetst |  Etudiante en M1 MIAGE à l'université de Nantes <br/> Motivée, dynamique, efficace et responsable  <br/>   Je suis à la recherche d’une alternance afin de terminer mes études dans l’accompagnement à la gestion du changement. |
 
-| ----------- | ----------- |
+
 
 
 
