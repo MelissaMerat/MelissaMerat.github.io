@@ -123,6 +123,6 @@ Décembre 2020
 ### Contact
 [Profil Linkedin ](https://www.linkedin.com/in/m%C3%A9lissa-m%C3%A9rat-9b9379173/) 
 
-CV en format pdf [here](CVgeneriqueMERATMélissa.pdf)
+CV en format pdf [ici](CVgeneriqueMERATMélissa.pdf)
 
 [Haut de la page](#table-des-matières)
