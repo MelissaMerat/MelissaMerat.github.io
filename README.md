@@ -9,7 +9,7 @@
 - [Compétences informatiques](#compétences-informatiques) 
 - [Interêts ](#interêts) 
 - [International](#international) 
-- [Contactez-moi ! ](#contactez-moi-!) 
+- [Contact](#contact) 
 
 ### Informations générales
 -  France (Nantes – 44 000)
@@ -120,6 +120,7 @@ Décembre 2020
 	- Pratiqué pendant 2 mois en Irlande [ Voir 'Expériences associatives'](#expériences-associatives) 
 
 
-### Contactez-moi !  [Profil Linkedin ](https://www.linkedin.com/in/m%C3%A9lissa-m%C3%A9rat-9b9379173/) 
+### Contact
+[Profil Linkedin ](https://www.linkedin.com/in/m%C3%A9lissa-m%C3%A9rat-9b9379173/) 
 
 [Haut de la page](#table-des-matières)
